@@ -1,0 +1,5 @@
+./test_files.txt
+./pytest.ini
+./tests/test_app.py
+./tests/test_config.py
+./fix_tests.log
