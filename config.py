@@ -39,3 +39,4 @@ class Config:
             }
         ]
     }
+from flask_cors import CORS
