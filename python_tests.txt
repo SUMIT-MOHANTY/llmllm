@@ -1,0 +1,2 @@
+./tests/test_app.py
+./tests/test_config.py
